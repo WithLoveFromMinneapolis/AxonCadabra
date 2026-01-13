@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.axon.blecontroller.app-mergeDebugResources-34:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/lozaning/.gradle/caches/8.11.1/transforms/3ad018503eb326cd1f8e891ad3d3bbdd/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

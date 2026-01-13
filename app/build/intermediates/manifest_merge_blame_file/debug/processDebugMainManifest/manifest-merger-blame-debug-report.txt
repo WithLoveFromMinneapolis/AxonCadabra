@@ -1,0 +1,173 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.axon.blecontroller"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- BLE Permissions for Android 12+ (API 31+) -->
+12    <uses-permission
+12-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:6:5-8:31
+13        android:name="android.permission.BLUETOOTH_SCAN"
+13-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:6:22-70
+14        android:usesPermissionFlags="neverForLocation" />
+14-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:7:9-55
+15    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+15-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:9:5-78
+15-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:9:22-75
+16    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+16-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:10:5-76
+16-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:10:22-73
+17
+18    <!-- BLE Permissions for Android 11 and below -->
+19    <uses-permission
+19-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:13:5-14:38
+20        android:name="android.permission.BLUETOOTH"
+20-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:13:22-65
+21        android:maxSdkVersion="30" />
+21-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:14:9-35
+22    <uses-permission
+22-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:15:5-16:38
+23        android:name="android.permission.BLUETOOTH_ADMIN"
+23-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:15:22-71
+24        android:maxSdkVersion="30" />
+24-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:16:9-35
+25    <uses-permission
+25-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:17:5-18:38
+26        android:name="android.permission.ACCESS_FINE_LOCATION"
+26-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:17:22-76
+27        android:maxSdkVersion="30" />
+27-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:18:9-35
+28    <uses-permission
+28-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:19:5-20:38
+29        android:name="android.permission.ACCESS_COARSE_LOCATION"
+29-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:19:22-78
+30        android:maxSdkVersion="30" />
+30-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:20:9-35
+31
+32    <!-- Declare BLE feature -->
+33    <uses-feature
+33-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:23:5-25:35
+34        android:name="android.hardware.bluetooth_le"
+34-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:24:9-53
+35        android:required="true" />
+35-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:25:9-32
+36
+37    <permission
+37-->[androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+38        android:name="com.axon.blecontroller.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+38-->[androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+39        android:protectionLevel="signature" />
+39-->[androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+40
+41    <uses-permission android:name="com.axon.blecontroller.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+41-->[androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+41-->[androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+42
+43    <application
+43-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:27:5-42:19
+44        android:allowBackup="true"
+44-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:28:9-35
+45        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+45-->[androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+46        android:debuggable="true"
+47        android:extractNativeLibs="false"
+48        android:icon="@mipmap/ic_launcher"
+48-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:29:9-43
+49        android:label="@string/app_name"
+49-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:30:9-41
+50        android:roundIcon="@mipmap/ic_launcher_round"
+50-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:31:9-54
+51        android:supportsRtl="true"
+51-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:32:9-35
+52        android:theme="@style/Theme.AxonBLEController" >
+52-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:33:9-55
+53        <activity
+53-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:34:9-41:20
+54            android:name="com.axon.blecontroller.MainActivity"
+54-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:35:13-41
+55            android:exported="true" >
+55-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:36:13-36
+56            <intent-filter>
+56-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:37:13-40:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:38:17-69
+57-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:38:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:39:17-77
+59-->/Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:39:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <provider
+63-->[androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+64            android:name="androidx.startup.InitializationProvider"
+64-->[androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+65            android:authorities="com.axon.blecontroller.androidx-startup"
+65-->[androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+66            android:exported="false" >
+66-->[androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+67            <meta-data
+67-->[androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+68                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+68-->[androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+69                android:value="androidx.startup" />
+69-->[androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+70            <meta-data
+70-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+71-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+72                android:value="androidx.startup" />
+72-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+75                android:value="androidx.startup" />
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+76        </provider>
+77
+78        <receiver
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+79            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+80            android:directBootAware="false"
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+81            android:enabled="true"
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+82            android:exported="true"
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+83            android:permission="android.permission.DUMP" >
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+84            <intent-filter>
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+85                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+86            </intent-filter>
+87            <intent-filter>
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+88                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+89            </intent-filter>
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+91                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+94                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+95            </intent-filter>
+96        </receiver>
+97    </application>
+98
+99</manifest>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="border_color">#00FF41</color>
+    <color name="button_background">#2D2D2D</color>
+    <color name="cyber_background">#0D0D0D</color>
+    <color name="cyber_cyan">#00FFFF</color>
+    <color name="cyber_dim">#39FF14</color>
+    <color name="cyber_green">#00FF41</color>
+    <color name="cyber_magenta">#FF00FF</color>
+    <color name="cyber_surface">#1A1A1A</color>
+    <color name="cyber_yellow">#FFE400</color>
+    <color name="ic_launcher_background">#0D0D0D</color>
+    <color name="item_background">#1A1A1A</color>
+    <color name="list_background">#0D0D0D</color>
+    <color name="status_background">#1A1A1A</color>
+    <string name="app_name">AxonCadabra</string>
+    <style name="CyberButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/cyber_green</item>
+        <item name="backgroundTint">@color/button_background</item>
+        <item name="strokeColor">@color/cyber_green</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+    <style name="CyberButtonActive" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">@color/cyber_background</item>
+        <item name="backgroundTint">@color/cyber_green</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:fontFamily">monospace</item>
+    </style>
+    <style name="Theme.AxonBLEController" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/cyber_green</item>
+        <item name="colorPrimaryVariant">@color/cyber_dim</item>
+        <item name="colorOnPrimary">@color/cyber_background</item>
+        <item name="colorSecondary">@color/cyber_cyan</item>
+        <item name="colorSecondaryVariant">@color/cyber_magenta</item>
+        <item name="colorOnSecondary">@color/cyber_background</item>
+        <item name="android:colorBackground">@color/cyber_background</item>
+        <item name="android:statusBarColor">@color/cyber_background</item>
+        <item name="android:navigationBarColor">@color/cyber_background</item>
+        <item name="android:textColorPrimary">@color/cyber_green</item>
+        <item name="android:textColorSecondary">@color/cyber_dim</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.axon.blecontroller.app-mergeDebugResources-34:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/lozaning/.gradle/caches/8.11.1/transforms/3ad018503eb326cd1f8e891ad3d3bbdd/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

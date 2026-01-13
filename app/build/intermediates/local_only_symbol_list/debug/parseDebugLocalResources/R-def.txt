@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color border_color
+color button_background
+color cyber_background
+color cyber_cyan
+color cyber_dim
+color cyber_green
+color cyber_magenta
+color cyber_surface
+color cyber_yellow
+color ic_launcher_background
+color item_background
+color list_background
+color status_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id advertiseButton
+id deviceAddress
+id deviceName
+id deviceRecyclerView
+id deviceRssi
+id fuzzButton
+id fuzzStatus
+id headerArt
+id scanButton
+id statusText
+layout activity_main
+layout item_device
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style CyberButton
+style CyberButtonActive
+style Theme.AxonBLEController

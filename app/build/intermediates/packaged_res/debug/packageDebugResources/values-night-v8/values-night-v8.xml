@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="item_background">#1A1A1A</color>
+    <color name="list_background">#0D0D0D</color>
+    <color name="status_background">#1A1A1A</color>
+</resources>

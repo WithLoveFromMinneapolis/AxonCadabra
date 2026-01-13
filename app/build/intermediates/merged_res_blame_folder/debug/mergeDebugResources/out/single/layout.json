@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-mergeDebugResources-35:/layout/item_device.xml",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/layout/item_device.xml"
+    },
+    {
+        "merged": "com.axon.blecontroller.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.axon.blecontroller.app-main-38:/layout/activity_main.xml"
+    }
+]

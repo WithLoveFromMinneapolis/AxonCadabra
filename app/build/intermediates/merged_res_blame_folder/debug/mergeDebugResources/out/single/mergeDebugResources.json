@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-debug-36:/layout_item_device.xml.flat",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/layout/item_device.xml"
+    },
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.axon.blecontroller.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "com.axon.blecontroller.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-debug-36:/layout_activity_main.xml.flat",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-debug-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/lozaning/.gradle/daemon/8.11.1/com.axon.blecontroller.app-main-38:/drawable/ic_launcher_background.xml"
+    }
+]

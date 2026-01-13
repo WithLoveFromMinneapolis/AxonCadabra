@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.databinding:viewbinding:8.7.3] /Users/lozaning/.gradle/caches/8.11.1/transforms/1e64024db095f2023089cad08d8d5699/transformed/viewbinding-8.7.3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2463e860cb9c9dd5d850d16d96fd1c3f/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lozaning/.gradle/caches/8.11.1/transforms/7472c5f630ee2cc0f83de65b3742f082/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/befa83f80f029b2f47977aa0fd2f86c2/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/3ad018503eb326cd1f8e891ad3d3bbdd/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/a6f4e5d82fe6455ea35f7d57bd91c16d/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/lozaning/.gradle/caches/8.11.1/transforms/09a12d0b34c59480dbab0ac2370beb88/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/lozaning/.gradle/caches/8.11.1/transforms/eb2c81f0b18c67ead0f4d7881d46c823/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/54db0a195c5be46769bb2ad205adb68d/transformed/activity-1.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/949ba7b9c589583141bf8832d8e9b9d6/transformed/activity-ktx-1.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/67716e5fd2482e756902137cd5898302/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/97d0e6ab46b8a805cde14730fae34c65/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/a3e790dc5c272abb95b194e20036ee68/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2315429f5fd4406ca405f284a52278ff/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2310246df4419b71e600281a45cbd473/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/c2299436319826fc0730e8c52db91bf0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/a5c2601266432549a0bb50fedd6b2241/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/d2e0967248066338c12dcaab1a873a92/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/454a9ec4edf5e42f03b8cfa3ab97b86c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/bfa0a1f00eb40aceceb1446ac28e62ff/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/5f928fc6c3b00768a7a242f33c90f6cf/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/316ced27ca45e8e590bb2046d5a33b19/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/04de0b9207b11f18bcea2122d51aaa8a/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/4e92c5a5fbcdcbf2eb4c14aa54f940fd/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/43b200ce09f44b18ec6bbc9a9ae9757d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/3ef86c14a8840024639d4a4e752deb8d/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/e39b163b7609d024b6c689add3520535/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/74274692c01dd31821d354a72e2758dc/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/57ec551b446a800eec0e79fd3650e15f/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/9d78c1519d9093683d812b3d328a8d73/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/248cae503befd58f3ce74e7e5e9aa4fe/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/457e7f07fb4d37ca752e7bc9be2da436/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/e944264ece344d8e772402dc99c1fd43/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/3bd0efe8ac78948441f40be23963d443/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/15c7aa8359817960eba6db7ca0d45feb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/0b38e3794f6e03f84941bd3ac7157551/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/1b7a1c0c2c9a20f1da2d893b6f133c27/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/99afbcd9b21486995f44917b2e11a3f1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/0d75c30bce8a19727f2027cb5247e4d6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/120c7d697b797999b398f1d0b6e1d6e0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/939514c3adca954ea13f212611b4bee6/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:6:5-8:31
+	android:usesPermissionFlags
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:7:9-55
+	tools:targetApi
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:8:9-28
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:6:22-70
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:9:22-75
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:13:5-14:38
+	android:maxSdkVersion
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:14:9-35
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:15:5-16:38
+	android:maxSdkVersion
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:16:9-35
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:15:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:17:5-18:38
+	android:maxSdkVersion
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:18:9-35
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:19:5-20:38
+	android:maxSdkVersion
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:20:9-35
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:19:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:23:5-25:35
+	android:required
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:25:9-32
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:24:9-53
+application
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:27:5-42:19
+INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:27:5-42:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2463e860cb9c9dd5d850d16d96fd1c3f/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2463e860cb9c9dd5d850d16d96fd1c3f/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lozaning/.gradle/caches/8.11.1/transforms/7472c5f630ee2cc0f83de65b3742f082/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lozaning/.gradle/caches/8.11.1/transforms/7472c5f630ee2cc0f83de65b3742f082/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:30:9-41
+	android:roundIcon
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:31:9-54
+	android:icon
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:33:9-55
+activity#com.axon.blecontroller.MainActivity
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:34:9-41:20
+	android:exported
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:35:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.7.3] /Users/lozaning/.gradle/caches/8.11.1/transforms/1e64024db095f2023089cad08d8d5699/transformed/viewbinding-8.7.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.3] /Users/lozaning/.gradle/caches/8.11.1/transforms/1e64024db095f2023089cad08d8d5699/transformed/viewbinding-8.7.3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2463e860cb9c9dd5d850d16d96fd1c3f/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2463e860cb9c9dd5d850d16d96fd1c3f/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lozaning/.gradle/caches/8.11.1/transforms/7472c5f630ee2cc0f83de65b3742f082/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/lozaning/.gradle/caches/8.11.1/transforms/7472c5f630ee2cc0f83de65b3742f082/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/befa83f80f029b2f47977aa0fd2f86c2/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/befa83f80f029b2f47977aa0fd2f86c2/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/3ad018503eb326cd1f8e891ad3d3bbdd/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/3ad018503eb326cd1f8e891ad3d3bbdd/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/a6f4e5d82fe6455ea35f7d57bd91c16d/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/a6f4e5d82fe6455ea35f7d57bd91c16d/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/lozaning/.gradle/caches/8.11.1/transforms/09a12d0b34c59480dbab0ac2370beb88/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/lozaning/.gradle/caches/8.11.1/transforms/09a12d0b34c59480dbab0ac2370beb88/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/lozaning/.gradle/caches/8.11.1/transforms/eb2c81f0b18c67ead0f4d7881d46c823/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/lozaning/.gradle/caches/8.11.1/transforms/eb2c81f0b18c67ead0f4d7881d46c823/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/54db0a195c5be46769bb2ad205adb68d/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/54db0a195c5be46769bb2ad205adb68d/transformed/activity-1.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/949ba7b9c589583141bf8832d8e9b9d6/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] /Users/lozaning/.gradle/caches/8.11.1/transforms/949ba7b9c589583141bf8832d8e9b9d6/transformed/activity-ktx-1.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/67716e5fd2482e756902137cd5898302/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/67716e5fd2482e756902137cd5898302/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/97d0e6ab46b8a805cde14730fae34c65/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/97d0e6ab46b8a805cde14730fae34c65/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/a3e790dc5c272abb95b194e20036ee68/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/a3e790dc5c272abb95b194e20036ee68/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2315429f5fd4406ca405f284a52278ff/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2315429f5fd4406ca405f284a52278ff/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2310246df4419b71e600281a45cbd473/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/2310246df4419b71e600281a45cbd473/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/c2299436319826fc0730e8c52db91bf0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/c2299436319826fc0730e8c52db91bf0/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/a5c2601266432549a0bb50fedd6b2241/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/a5c2601266432549a0bb50fedd6b2241/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/d2e0967248066338c12dcaab1a873a92/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/d2e0967248066338c12dcaab1a873a92/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/454a9ec4edf5e42f03b8cfa3ab97b86c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/454a9ec4edf5e42f03b8cfa3ab97b86c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/bfa0a1f00eb40aceceb1446ac28e62ff/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/bfa0a1f00eb40aceceb1446ac28e62ff/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/5f928fc6c3b00768a7a242f33c90f6cf/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/5f928fc6c3b00768a7a242f33c90f6cf/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/316ced27ca45e8e590bb2046d5a33b19/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/316ced27ca45e8e590bb2046d5a33b19/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/04de0b9207b11f18bcea2122d51aaa8a/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/04de0b9207b11f18bcea2122d51aaa8a/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/4e92c5a5fbcdcbf2eb4c14aa54f940fd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/4e92c5a5fbcdcbf2eb4c14aa54f940fd/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/43b200ce09f44b18ec6bbc9a9ae9757d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/43b200ce09f44b18ec6bbc9a9ae9757d/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/3ef86c14a8840024639d4a4e752deb8d/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/3ef86c14a8840024639d4a4e752deb8d/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/e39b163b7609d024b6c689add3520535/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/e39b163b7609d024b6c689add3520535/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/74274692c01dd31821d354a72e2758dc/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/74274692c01dd31821d354a72e2758dc/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/57ec551b446a800eec0e79fd3650e15f/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/57ec551b446a800eec0e79fd3650e15f/transformed/lifecycle-viewmodel-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/9d78c1519d9093683d812b3d328a8d73/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/9d78c1519d9093683d812b3d328a8d73/transformed/lifecycle-runtime-ktx-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/248cae503befd58f3ce74e7e5e9aa4fe/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/248cae503befd58f3ce74e7e5e9aa4fe/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/457e7f07fb4d37ca752e7bc9be2da436/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/457e7f07fb4d37ca752e7bc9be2da436/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/e944264ece344d8e772402dc99c1fd43/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/e944264ece344d8e772402dc99c1fd43/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/3bd0efe8ac78948441f40be23963d443/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/3bd0efe8ac78948441f40be23963d443/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/15c7aa8359817960eba6db7ca0d45feb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/15c7aa8359817960eba6db7ca0d45feb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/0b38e3794f6e03f84941bd3ac7157551/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/0b38e3794f6e03f84941bd3ac7157551/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/122344a415bf87af145ec80dfdf20230/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/1b7a1c0c2c9a20f1da2d893b6f133c27/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/1b7a1c0c2c9a20f1da2d893b6f133c27/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/99afbcd9b21486995f44917b2e11a3f1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/99afbcd9b21486995f44917b2e11a3f1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/0d75c30bce8a19727f2027cb5247e4d6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/0d75c30bce8a19727f2027cb5247e4d6/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/120c7d697b797999b398f1d0b6e1d6e0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/120c7d697b797999b398f1d0b6e1d6e0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/939514c3adca954ea13f212611b4bee6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/939514c3adca954ea13f212611b4bee6/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lozaning/Documents/GitHub/AbaracAxon/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/dace3e19d20e803d1c6546a54b8d13d1/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/262938a1b5da40269e8a5ae42aceb0e9/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.axon.blecontroller.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.axon.blecontroller.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/85676c01bc3fa10d7f1d793daf877184/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/lozaning/.gradle/caches/8.11.1/transforms/763244b3f4fda6be6d21cf766e76458d/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/lozaning/.gradle/caches/8.11.1/transforms/b4b643d8c1c9e035d1a1ae75226f17fd/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

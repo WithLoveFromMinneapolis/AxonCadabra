@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0D0D0D</color>
+    <color name="cyber_background">#0D0D0D</color>
+    <color name="cyber_surface">#1A1A1A</color>
+    <color name="cyber_green">#00FF41</color>
+    <color name="cyber_cyan">#00FFFF</color>
+    <color name="cyber_magenta">#FF00FF</color>
+    <color name="cyber_yellow">#FFE400</color>
+    <color name="cyber_dim">#39FF14</color>
+    <color name="status_background">#1A1A1A</color>
+    <color name="list_background">#0D0D0D</color>
+    <color name="item_background">#1A1A1A</color>
+    <color name="button_background">#2D2D2D</color>
+    <color name="border_color">#00FF41</color>
+</resources>

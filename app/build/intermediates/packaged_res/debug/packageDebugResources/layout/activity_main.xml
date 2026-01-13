@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@color/cyber_background">
+
+    <!-- ASCII Art Header -->
+    <TextView
+        android:id="@+id/headerArt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="8dp"
+        android:textSize="13sp"
+        android:fontFamily="monospace"
+        android:textColor="@color/cyber_green"
+        android:lineSpacingExtra="-2dp"
+        android:text="  ▄▀▄ ▀▄▀ █▀█ █▄ █\n  █▀█ █ █ █▄█ █ ▀█\n     ╔═╗┌─┐┌┬┐┌─┐┌┐ ┬─┐┌─┐\n     ║  ├─┤ ││├─┤├┴┐├┬┘├─┤\n     ╚═╝┴ ┴─┴┘┴ ┴└─┘┴└─┴ ┴" />
+
+    <!-- Status Panel -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="┌─[ SYSTEM STATUS ]─────────────┐"
+        android:textColor="@color/cyber_green"
+        android:textSize="11sp"
+        android:fontFamily="monospace" />
+
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="│ SCAN: OFF │ TX: OFF │ FUZZ: OFF"
+        android:textSize="11sp"
+        android:textColor="@color/cyber_dim"
+        android:fontFamily="monospace"
+        android:padding="4dp"
+        android:background="@color/status_background" />
+
+    <TextView
+        android:id="@+id/fuzzStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="│ FUZZ_VAL: 0x00"
+        android:textSize="11sp"
+        android:textColor="@color/cyber_yellow"
+        android:fontFamily="monospace"
+        android:padding="4dp"
+        android:background="@color/status_background" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="└───────────────────────────────┘"
+        android:textColor="@color/cyber_green"
+        android:textSize="11sp"
+        android:fontFamily="monospace"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Control Buttons Row 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="8dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/scanButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="[ SCAN ]"
+            android:textSize="12sp"
+            style="@style/CyberButton"
+            android:layout_marginEnd="4dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/fuzzButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="[ FUZZ ]"
+            android:textSize="12sp"
+            style="@style/CyberButton"
+            android:layout_marginStart="4dp" />
+
+    </LinearLayout>
+
+    <!-- Main Transmit Button -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/advertiseButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="•˚₊‧⋆.AxoNCadAbArA.⋆‧₊˚•"
+        android:textSize="14sp"
+        style="@style/CyberButton"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Device List Header -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="┌─[ TARGET DEVICES: 00:25:DF ]──┐"
+        android:textColor="@color/cyber_green"
+        android:textSize="11sp"
+        android:fontFamily="monospace" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/deviceRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/list_background"
+        android:padding="4dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="└───────────────────────────────┘"
+        android:textColor="@color/cyber_green"
+        android:textSize="11sp"
+        android:fontFamily="monospace" />
+
+    <!-- Footer -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="═══ [ With &lt;3 from Minneapolis ] ═══"
+        android:textColor="@color/cyber_magenta"
+        android:textSize="10sp"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:layout_marginTop="4dp" />
+
+</LinearLayout>

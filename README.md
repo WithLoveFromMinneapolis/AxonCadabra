@@ -19,6 +19,10 @@ Android BLE tool to wirelessly triggering Axon Body Cams to start recording
 - Bluetooth LE support
 - Location and Bluetooth permissions
 
+## Precompiled APK
+- If you trust me, the precompiled APK can be found in the repo here: https://github.com/WithLoveFromMinneapolis/AxonCadabra/blob/main/app/build/outputs/apk/debug/app-debug.apk
+- If you dont trust me follow the build instructions
+
 ## Build
 
 ```
@@ -33,4 +37,4 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 ## License
 
-If you're making money I should be too, otherwise run wild
+Use this code in whatever way keeps people safe and dont ever charge for it or any derivatives. 
